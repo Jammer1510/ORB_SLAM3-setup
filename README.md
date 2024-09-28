@@ -76,7 +76,7 @@ to
 `Eigen::aligned_allocator<std::pair<KeyFrame *const, g2o::Sim3> > > KeyFrameAndPose;`
 in order to make this compile.  
 
-Also open CMakeLists.TXT in ~Dev/ORB_SLAM3 and change OpenCV 4.4 to 3.2(or which version you installed on your system)
+Also open CMakeLists.TXT in ~Dev/ORB_SLAM3 and change OpenCV 4.4 to 3.2(or which version you installed on your system)  
 Now, we can comiple ORB-SLAM3 and it dependencies as DBoW2 and g2o.  
 
 Now Simply just run (if you encounter compiler, try to run the this shell script 2 or 3 more time. It works for me.)
