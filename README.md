@@ -1,4 +1,4 @@
-# ORB_SLAM3-setup
+# ORB_SLAM3-setup on Ubuntu 20.04
 
 # Installation guide by Mauhing Yip
 # 1. Installation of ORB-SLAM 3 on a fresh installed Ubuntu 20.04
