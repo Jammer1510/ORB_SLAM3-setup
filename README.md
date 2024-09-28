@@ -81,6 +81,7 @@ Now, we can comiple ORB-SLAM3 and it dependencies as DBoW2 and g2o.
 
 Now Simply just run (if you encounter compiler, try to run the this shell script 2 or 3 more time. It works for me.)
 ```shell
+chomod +x build.sh
 ./build.sh
 ```
 to install  
