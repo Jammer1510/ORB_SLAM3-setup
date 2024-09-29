@@ -21,14 +21,13 @@ sudo apt-get install libepoxy-dev
 ```
 ---
 
-### Install OpenCV 3.2.0
+### Install OpenCV 
 The ORB-SLAM 3 was test by  
 ```shell
 cd ~
 mkdir Dev && cd Dev
 git clone https://github.com/opencv/opencv.git
 cd opencv
-git checkout 3.2.0
 ```
 Put the following at the top of header file `gedit ./modules/videoio/src/cap_ffmpeg_impl.hpp`  
 `#define AV_CODEC_FLAG_GLOBAL_HEADER (1 << 22)`  
