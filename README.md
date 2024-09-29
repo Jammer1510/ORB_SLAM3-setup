@@ -61,8 +61,7 @@ sudo make install
 ---
 
 ### ORB-SLAM 3
-Now, we install ORB-SLAM3. I used the commit version ef9784101fbd28506b52f233315541ef8ba7af57 tag: v0.3-beta
-
+Now, we install ORB-SLAM3. 
 ```shell
 cd ~/Dev
 git clone https://github.com/UZ-SLAMLab/ORB_SLAM3.git 
