@@ -21,7 +21,7 @@ sudo apt-get install libepoxy-dev
 ```
 ---
 
-### Install OpenCV 
+### Install OpenCV （Skip this step if you come from CPP-EVTOL repo
 The ORB-SLAM 3 was test by  
 ```shell
 cd ~
